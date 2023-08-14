@@ -77,7 +77,7 @@ export default function Home() {
         <div className="w-full flex flex-col p-8">
             <section className="w-full h-screen flex flex-col justify-around">
                 <div className="flex flex-col items-center justify-around gap-5">
-                    <h1 className="text-4xl sm:text-6xl font-bold leading-tight">Fullstack React & <br/>Spring Boot Entwickler 👋</h1>
+                    <h1 className="text-4xl sm:text-6xl font-bold leading-tight sm:leading-tight">Fullstack React & <br/>Spring Boot Entwickler 👋</h1>
                     <span className="text-gray-400 text-xl leading-10 sm:text-2xl sm:leading-10">Hi, ich bin Jahid Uddin.<br/> Abiturient, mit dem Ziel professioneller Softwareentwickler zu werden.</span>
                     <div className="flex gap-5">
                         <Link target="_blank" to="https://www.linkedin.com/in/jahid-uddin-410918267/">
